@@ -1,7 +1,3 @@
-## Secure Application Development Summer 2019
-This is a private repository of Romana Rasheed.
-UD Email: rasheedr1@udayton.edu
-
 This project is based on a social networking website such as Facebook. Due to it's restricted functionalities we have named it as miniFB. It isn't a fully created website and lacks a lot of functionalities in comparison with the actual Facebook, we have concentrated on the security aspects of the program. I have tried to cover various security principles, prevention techniques and practicies. 
 
 ## Functionalities
